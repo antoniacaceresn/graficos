@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1201 586">
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1198.57 586.29">
   <defs>
     <style>
       .cls-1 {
@@ -23,7 +23,7 @@
       }
 
       .cls-6 {
-        fill: #0a5054;
+        fill: #aaaaa9;
       }
 
       .cls-6, .cls-7, .cls-8, .cls-9, .cls-10 {
@@ -31,7 +31,7 @@
       }
 
       .cls-7 {
-        fill: #aaaaa9;
+        fill: #4d66ac;
       }
 
       .cls-3, .cls-4 {
@@ -39,10 +39,14 @@
       }
 
       .cls-8 {
-        fill: #0f7e86;
+        fill: #437db3;
       }
 
       .cls-9 {
+        fill: #3a4f8a;
+      }
+
+      .cls-10 {
         fill: #1f77b4;
       }
 
@@ -54,201 +58,279 @@
       .cls-4 {
         letter-spacing: -.07em;
       }
-
-      .cls-10 {
-        fill: #00b3bf;
-      }
     </style>
   </defs>
-  <rect id="undefined_-_aprueba" data-name="undefined - aprueba" class="cls-9" x="86.69" y="541.39" width="39.78" height="24"/>
-  <rect id="undefined_-_reprueban" data-name="undefined - reprueban" class="cls-7" x="126.46" y="357.39" width="39.78" height="208"/>
-  <rect id="undefined_-_meción_v_y_m" data-name="undefined - meción v y m" class="cls-10" x="86.69" y="549.39" width="39.78" height="16"/>
-  <rect id="undefined_-_diseño" data-name="undefined - diseño" class="cls-6" x="86.69" y="541.39" width="39.78" height="8"/>
-  <rect id="undefined_-_aprueba-2" data-name="undefined - aprueba-2" class="cls-9" x="230.9" y="485.39" width="39.78" height="80"/>
-  <rect id="undefined_-_reprueban-2" data-name="undefined - reprueban-2" class="cls-7" x="270.68" y="293.39" width="39.78" height="272"/>
-  <rect id="undefined_-_meción_v_y_m-2" data-name="undefined - meción v y m-2" class="cls-10" x="230.9" y="525.39" width="39.78" height="40"/>
-  <rect id="undefined_-_mención_i_y_s" data-name="undefined - mención i y s" class="cls-8" x="230.9" y="485.39" width="39.78" height="40"/>
-  <rect id="undefined_-_aprueba-3" data-name="undefined - aprueba-3" class="cls-9" x="375.12" y="477.39" width="39.78" height="88"/>
-  <rect id="undefined_-_reprueban-3" data-name="undefined - reprueban-3" class="cls-7" x="414.9" y="93.39" width="39.78" height="472"/>
-  <rect id="undefined_-_meción_v_y_m-3" data-name="undefined - meción v y m-3" class="cls-10" x="375.12" y="509.39" width="39.78" height="56"/>
-  <rect id="undefined_-_mención_i_y_s-2" data-name="undefined - mención i y s-2" class="cls-8" x="375.12" y="477.39" width="39.78" height="32"/>
-  <rect id="undefined_-_aprueba-4" data-name="undefined - aprueba-4" class="cls-9" x="519.34" y="405.39" width="39.78" height="160"/>
-  <rect id="undefined_-_reprueban-4" data-name="undefined - reprueban-4" class="cls-7" x="559.12" y="189.39" width="39.78" height="376"/>
-  <rect id="undefined_-_meción_v_y_m-4" data-name="undefined - meción v y m-4" class="cls-10" x="519.34" y="493.39" width="39.78" height="72"/>
-  <rect id="undefined_-_mención_i_y_s-3" data-name="undefined - mención i y s-3" class="cls-8" x="519.34" y="437.39" width="39.78" height="56"/>
-  <rect id="undefined_-_diseño-2" data-name="undefined - diseño-2" class="cls-6" x="519.34" y="405.39" width="39.78" height="32"/>
-  <rect id="undefined_-_aprueba-5" data-name="undefined - aprueba-5" class="cls-9" x="663.74" y="125.39" width="39.78" height="440"/>
-  <rect id="undefined_-_reprueban-5" data-name="undefined - reprueban-5" class="cls-7" x="703.52" y="221.39" width="39.78" height="344"/>
-  <rect id="undefined_-_meción_v_y_m-5" data-name="undefined - meción v y m-5" class="cls-10" x="663.74" y="365.39" width="39.78" height="200"/>
-  <rect id="undefined_-_mención_i_y_s-4" data-name="undefined - mención i y s-4" class="cls-8" x="663.56" y="181.21" width="39.78" height="184"/>
-  <rect id="undefined_-_diseño-3" data-name="undefined - diseño-3" class="cls-6" x="663.74" y="125.39" width="39.78" height="56"/>
-  <rect id="undefined_-_aprueba-6" data-name="undefined - aprueba-6" class="cls-9" x="807.96" y="253.39" width="39.78" height="312"/>
-  <rect id="undefined_-_reprueban-6" data-name="undefined - reprueban-6" class="cls-7" x="847.74" y="397.39" width="39.78" height="168"/>
-  <rect id="undefined_-_meción_v_y_m-6" data-name="undefined - meción v y m-6" class="cls-10" x="807.96" y="397.39" width="39.78" height="168"/>
-  <rect id="undefined_-_mención_i_y_s-5" data-name="undefined - mención i y s-5" class="cls-8" x="807.96" y="285.39" width="39.78" height="112"/>
-  <rect id="undefined_-_diseño-4" data-name="undefined - diseño-4" class="cls-6" x="807.96" y="253.39" width="39.78" height="32"/>
-  <rect id="undefined_-_aprueba-7" data-name="undefined - aprueba-7" class="cls-9" x="952.18" y="13.39" width="39.78" height="552"/>
-  <rect id="undefined_-_reprueban-7" data-name="undefined - reprueban-7" class="cls-7" x="991.96" y="157.39" width="39.78" height="408"/>
-  <rect id="undefined_-_meción_v_y_m-7" data-name="undefined - meción v y m-7" class="cls-10" x="952.18" y="301.39" width="39.78" height="264"/>
-  <rect id="undefined_-_mención_i_y_s-6" data-name="undefined - mención i y s-6" class="cls-8" x="952.18" y="77.59" width="39.78" height="224"/>
-  <rect id="undefined_-_diseño-5" data-name="undefined - diseño-5" class="cls-6" x="952.18" y="13.39" width="39.78" height="64"/>
+  <rect id="undefined_-_aprueba" data-name="undefined - aprueba" class="cls-10" x="86.69" y="541.39" width="39.78" height="24"/>
+  <rect id="undefined_-_reprueban" data-name="undefined - reprueban" class="cls-6" x="126.46" y="357.39" width="39.78" height="208"/>
+  <rect id="undefined_-_meción_v_y_m" data-name="undefined - meción v y m" class="cls-9" x="86.69" y="549.39" width="39.78" height="16"/>
+  <rect id="undefined_-_diseño" data-name="undefined - diseño" class="cls-8" x="86.69" y="541.39" width="39.78" height="8"/>
+  <rect id="undefined_-_aprueba-2" data-name="undefined - aprueba-2" class="cls-10" x="230.9" y="485.39" width="39.78" height="80"/>
+  <rect id="undefined_-_reprueban-2" data-name="undefined - reprueban-2" class="cls-6" x="270.68" y="293.39" width="39.78" height="272"/>
+  <rect id="undefined_-_meción_v_y_m-2" data-name="undefined - meción v y m-2" class="cls-9" x="230.9" y="525.39" width="39.78" height="40"/>
+  <rect id="undefined_-_mención_i_y_s" data-name="undefined - mención i y s" class="cls-7" x="230.9" y="485.39" width="39.78" height="40"/>
+  <rect id="undefined_-_aprueba-3" data-name="undefined - aprueba-3" class="cls-10" x="375.12" y="477.39" width="39.78" height="88"/>
+  <rect id="undefined_-_reprueban-3" data-name="undefined - reprueban-3" class="cls-6" x="414.9" y="93.39" width="39.78" height="472"/>
+  <rect id="undefined_-_meción_v_y_m-3" data-name="undefined - meción v y m-3" class="cls-9" x="375.12" y="509.39" width="39.78" height="56"/>
+  <rect id="undefined_-_mención_i_y_s-2" data-name="undefined - mención i y s-2" class="cls-7" x="375.12" y="477.39" width="39.78" height="32"/>
+  <rect id="undefined_-_aprueba-4" data-name="undefined - aprueba-4" class="cls-10" x="519.34" y="405.39" width="39.78" height="160"/>
+  <rect id="undefined_-_reprueban-4" data-name="undefined - reprueban-4" class="cls-6" x="559.12" y="189.39" width="39.78" height="376"/>
+  <rect id="undefined_-_meción_v_y_m-4" data-name="undefined - meción v y m-4" class="cls-9" x="519.34" y="493.39" width="39.78" height="72"/>
+  <rect id="undefined_-_mención_i_y_s-3" data-name="undefined - mención i y s-3" class="cls-7" x="519.34" y="437.39" width="39.78" height="56"/>
+  <rect id="undefined_-_diseño-2" data-name="undefined - diseño-2" class="cls-8" x="519.34" y="405.39" width="39.78" height="32"/>
+  <rect id="undefined_-_aprueba-5" data-name="undefined - aprueba-5" class="cls-10" x="663.74" y="125.39" width="39.78" height="440"/>
+  <rect id="undefined_-_reprueban-5" data-name="undefined - reprueban-5" class="cls-6" x="703.52" y="221.39" width="39.78" height="344"/>
+  <rect id="undefined_-_meción_v_y_m-5" data-name="undefined - meción v y m-5" class="cls-9" x="663.74" y="365.39" width="39.78" height="200"/>
+  <rect id="undefined_-_mención_i_y_s-4" data-name="undefined - mención i y s-4" class="cls-7" x="663.56" y="181.21" width="39.78" height="184"/>
+  <rect id="undefined_-_diseño-3" data-name="undefined - diseño-3" class="cls-8" x="663.74" y="125.39" width="39.78" height="56"/>
+  <rect id="undefined_-_aprueba-6" data-name="undefined - aprueba-6" class="cls-10" x="807.96" y="253.39" width="39.78" height="312"/>
+  <rect id="undefined_-_reprueban-6" data-name="undefined - reprueban-6" class="cls-6" x="847.74" y="397.39" width="39.78" height="168"/>
+  <rect id="undefined_-_meción_v_y_m-6" data-name="undefined - meción v y m-6" class="cls-9" x="807.96" y="397.39" width="39.78" height="168"/>
+  <rect id="undefined_-_mención_i_y_s-5" data-name="undefined - mención i y s-5" class="cls-7" x="807.96" y="285.39" width="39.78" height="112"/>
+  <rect id="undefined_-_diseño-4" data-name="undefined - diseño-4" class="cls-8" x="807.96" y="253.39" width="39.78" height="32"/>
+  <rect id="undefined_-_aprueba-7" data-name="undefined - aprueba-7" class="cls-10" x="952.18" y="13.39" width="39.78" height="552"/>
+  <rect id="undefined_-_reprueban-7" data-name="undefined - reprueban-7" class="cls-6" x="991.96" y="157.39" width="39.78" height="408"/>
+  <rect id="undefined_-_meción_v_y_m-7" data-name="undefined - meción v y m-7" class="cls-9" x="952.18" y="301.39" width="39.78" height="264"/>
+  <rect id="undefined_-_mención_i_y_s-6" data-name="undefined - mención i y s-6" class="cls-7" x="952.18" y="77.59" width="39.78" height="224"/>
+  <rect id="undefined_-_diseño-5" data-name="undefined - diseño-5" class="cls-8" x="952.18" y="13.39" width="39.78" height="64"/>
   <path class="cls-11" d="M21,565.39h1117.43"/>
   <line class="cls-11" x1="126.42" y1="565.39" x2="126.42" y2="571.39"/>
   <g class="cls-5">
-    <text class="cls-1" transform="translate(109.42 581.49)"><tspan x="0" y="0">2021-2</tspan></text>
+    <g class="cls-5">
+      <text class="cls-1" transform="translate(109.42 581.49)"><tspan x="0" y="0">2021-2</tspan></text>
+    </g>
   </g>
   <line class="cls-11" x1="270.33" y1="565.39" x2="270.33" y2="571.39"/>
   <g class="cls-5">
-    <text class="cls-1" transform="translate(253.34 581.49)"><tspan x="0" y="0">2022-1</tspan></text>
+    <g class="cls-5">
+      <text class="cls-1" transform="translate(253.34 581.49)"><tspan x="0" y="0">2022-1</tspan></text>
+    </g>
   </g>
   <line class="cls-11" x1="415.67" y1="565.39" x2="415.67" y2="571.39"/>
   <g class="cls-5">
-    <text class="cls-1" transform="translate(398.67 581.49)"><tspan x="0" y="0">2022-2</tspan></text>
+    <g class="cls-5">
+      <text class="cls-1" transform="translate(398.67 581.49)"><tspan x="0" y="0">2022-2</tspan></text>
+    </g>
   </g>
   <line class="cls-11" x1="559.58" y1="565.39" x2="559.58" y2="571.39"/>
   <g class="cls-5">
-    <text class="cls-1" transform="translate(542.58 581.49)"><tspan x="0" y="0">2023-1</tspan></text>
+    <g class="cls-5">
+      <text class="cls-1" transform="translate(542.58 581.49)"><tspan x="0" y="0">2023-1</tspan></text>
+    </g>
   </g>
   <line class="cls-11" x1="703.5" y1="565.39" x2="703.5" y2="571.39"/>
   <g class="cls-5">
-    <text class="cls-1" transform="translate(686.5 581.49)"><tspan x="0" y="0">2023-2</tspan></text>
+    <g class="cls-5">
+      <text class="cls-1" transform="translate(686.5 581.49)"><tspan x="0" y="0">2023-2</tspan></text>
+    </g>
   </g>
   <line class="cls-11" x1="848.83" y1="565.39" x2="848.83" y2="571.39"/>
   <g class="cls-5">
-    <text class="cls-1" transform="translate(831.83 581.49)"><tspan x="0" y="0">2024-1</tspan></text>
+    <g class="cls-5">
+      <text class="cls-1" transform="translate(831.83 581.49)"><tspan x="0" y="0">2024-1</tspan></text>
+    </g>
   </g>
   <line class="cls-11" x1="992.75" y1="565.39" x2="992.75" y2="571.39"/>
   <g class="cls-5">
-    <text class="cls-1" transform="translate(975.75 581.49)"><tspan x="0" y="0">2024-2</tspan></text>
+    <g class="cls-5">
+      <text class="cls-1" transform="translate(975.75 581.49)"><tspan x="0" y="0">2024-2</tspan></text>
+    </g>
   </g>
   <g id="yAxis">
     <path class="cls-11" d="M21,565.39V5.39"/>
     <line class="cls-11" x1="21" y1="565.39" x2="15" y2="565.39"/>
     <g class="cls-5">
-      <text class="cls-1" transform="translate(6 568.59)"><tspan x="0" y="0">0</tspan></text>
+      <g class="cls-5">
+        <text class="cls-1" transform="translate(6 568.59)"><tspan x="0" y="0">0</tspan></text>
+      </g>
     </g>
     <line class="cls-11" x1="21" y1="525.39" x2="15" y2="525.39"/>
     <g class="cls-5">
-      <text class="cls-1" transform="translate(6 528.59)"><tspan x="0" y="0">5</tspan></text>
+      <g class="cls-5">
+        <text class="cls-1" transform="translate(6 528.59)"><tspan x="0" y="0">5</tspan></text>
+      </g>
     </g>
     <line class="cls-11" x1="21" y1="485.39" x2="15" y2="485.39"/>
     <g class="cls-5">
-      <text class="cls-1" transform="translate(0 488.59)"><tspan x="0" y="0">10</tspan></text>
+      <g class="cls-5">
+        <text class="cls-1" transform="translate(0 488.59)"><tspan x="0" y="0">10</tspan></text>
+      </g>
     </g>
     <line class="cls-11" x1="21" y1="445.39" x2="15" y2="445.39"/>
     <g class="cls-5">
-      <text class="cls-1" transform="translate(0 448.59)"><tspan x="0" y="0">15</tspan></text>
+      <g class="cls-5">
+        <text class="cls-1" transform="translate(0 448.59)"><tspan x="0" y="0">15</tspan></text>
+      </g>
     </g>
     <line class="cls-11" x1="21" y1="405.39" x2="15" y2="405.39"/>
     <g class="cls-5">
-      <text class="cls-1" transform="translate(0 408.59)"><tspan x="0" y="0">20</tspan></text>
+      <g class="cls-5">
+        <text class="cls-1" transform="translate(0 408.59)"><tspan x="0" y="0">20</tspan></text>
+      </g>
     </g>
     <line class="cls-11" x1="21" y1="365.39" x2="15" y2="365.39"/>
     <g class="cls-5">
-      <text class="cls-1" transform="translate(0 368.59)"><tspan x="0" y="0">25</tspan></text>
+      <g class="cls-5">
+        <text class="cls-1" transform="translate(0 368.59)"><tspan x="0" y="0">25</tspan></text>
+      </g>
     </g>
     <line class="cls-11" x1="21" y1="325.39" x2="15" y2="325.39"/>
     <g class="cls-5">
-      <text class="cls-1" transform="translate(0 328.59)"><tspan x="0" y="0">30</tspan></text>
+      <g class="cls-5">
+        <text class="cls-1" transform="translate(0 328.59)"><tspan x="0" y="0">30</tspan></text>
+      </g>
     </g>
     <line class="cls-11" x1="21" y1="285.39" x2="15" y2="285.39"/>
     <g class="cls-5">
-      <text class="cls-1" transform="translate(0 288.59)"><tspan x="0" y="0">35</tspan></text>
+      <g class="cls-5">
+        <text class="cls-1" transform="translate(0 288.59)"><tspan x="0" y="0">35</tspan></text>
+      </g>
     </g>
     <line class="cls-11" x1="21" y1="245.39" x2="15" y2="245.39"/>
     <g class="cls-5">
-      <text class="cls-1" transform="translate(0 248.59)"><tspan x="0" y="0">40</tspan></text>
+      <g class="cls-5">
+        <text class="cls-1" transform="translate(0 248.59)"><tspan x="0" y="0">40</tspan></text>
+      </g>
     </g>
     <line class="cls-11" x1="21" y1="205.39" x2="15" y2="205.39"/>
     <g class="cls-5">
-      <text class="cls-1" transform="translate(0 208.59)"><tspan x="0" y="0">45</tspan></text>
+      <g class="cls-5">
+        <text class="cls-1" transform="translate(0 208.59)"><tspan x="0" y="0">45</tspan></text>
+      </g>
     </g>
     <line class="cls-11" x1="21" y1="165.39" x2="15" y2="165.39"/>
     <g class="cls-5">
-      <text class="cls-1" transform="translate(0 168.59)"><tspan x="0" y="0">50</tspan></text>
+      <g class="cls-5">
+        <text class="cls-1" transform="translate(0 168.59)"><tspan x="0" y="0">50</tspan></text>
+      </g>
     </g>
     <line class="cls-11" x1="21" y1="125.39" x2="15" y2="125.39"/>
     <g class="cls-5">
-      <text class="cls-1" transform="translate(0 128.59)"><tspan x="0" y="0">55</tspan></text>
+      <g class="cls-5">
+        <text class="cls-1" transform="translate(0 128.59)"><tspan x="0" y="0">55</tspan></text>
+      </g>
     </g>
     <line class="cls-11" x1="21" y1="85.39" x2="15" y2="85.39"/>
     <g class="cls-5">
-      <text class="cls-1" transform="translate(0 88.59)"><tspan x="0" y="0">60</tspan></text>
+      <g class="cls-5">
+        <text class="cls-1" transform="translate(0 88.59)"><tspan x="0" y="0">60</tspan></text>
+      </g>
     </g>
     <line class="cls-11" x1="21" y1="45.39" x2="15" y2="45.39"/>
     <g class="cls-5">
-      <text class="cls-1" transform="translate(0 48.59)"><tspan x="0" y="0">65</tspan></text>
+      <g class="cls-5">
+        <text class="cls-1" transform="translate(0 48.59)"><tspan x="0" y="0">65</tspan></text>
+      </g>
     </g>
     <line class="cls-11" x1="21" y1="5.39" x2="15" y2="5.39"/>
     <g class="cls-5">
-      <text class="cls-1" transform="translate(0 8.59)"><tspan x="0" y="0">70</tspan></text>
+      <g class="cls-5">
+        <text class="cls-1" transform="translate(0 8.59)"><tspan x="0" y="0">70</tspan></text>
+      </g>
     </g>
   </g>
-  <rect class="cls-6" x="1122.5" y="17.46" width="15" height="15"/>
+  <rect class="cls-8" x="1119.67" y="17.46" width="15" height="15"/>
   <g class="cls-5">
     <g class="cls-5">
-      <text class="cls-2" transform="translate(1142.5 29.96)"><tspan x="0" y="0">diseño</tspan></text>
+      <g class="cls-5">
+        <text class="cls-2" transform="translate(1139.67 29.96)"><tspan x="0" y="0">diseño</tspan></text>
+      </g>
     </g>
   </g>
-  <rect class="cls-10" x="1122.5" y="58.93" width="15" height="15"/>
+  <rect class="cls-9" x="1119.67" y="58.93" width="15" height="15"/>
   <g class="cls-5">
     <g class="cls-5">
-      <text class="cls-2" transform="translate(1142.5 71.43)"><tspan x="0" y="0">meción v y m</tspan></text>
+      <g class="cls-5">
+        <text class="cls-2" transform="translate(1139.67 71.43)"><tspan x="0" y="0">meción v y m</tspan></text>
+      </g>
     </g>
   </g>
-  <rect class="cls-8" x="1122.5" y="38.2" width="15" height="15"/>
+  <rect class="cls-7" x="1119.67" y="38.2" width="15" height="15"/>
   <g class="cls-5">
     <g class="cls-5">
-      <text class="cls-2" transform="translate(1142.5 50.7)"><tspan x="0" y="0">mención i y s</tspan></text>
+      <g class="cls-5">
+        <text class="cls-2" transform="translate(1139.67 50.7)"><tspan x="0" y="0">mención i y s</tspan></text>
+      </g>
     </g>
   </g>
-  <rect class="cls-7" x="1122.5" y="79.67" width="15" height="15"/>
+  <rect class="cls-6" x="1119.67" y="79.67" width="15" height="15"/>
   <g class="cls-5">
     <g class="cls-5">
-      <text class="cls-2" transform="translate(1142.5 92.17)"><tspan x="0" y="0">reprobados</tspan></text>
+      <g class="cls-5">
+        <text class="cls-2" transform="translate(1139.67 92.17)"><tspan x="0" y="0">reprobados</tspan></text>
+      </g>
     </g>
   </g>
   <g class="cls-5">
-    <text class="cls-3" transform="translate(103.24 539.39)"><tspan x="0" y="0">3</tspan></text>
+    <g class="cls-5">
+      <text class="cls-3" transform="translate(103.24 539.39)"><tspan x="0" y="0">3</tspan></text>
+    </g>
   </g>
   <g class="cls-5">
-    <text class="cls-3" transform="translate(139.68 355.39)"><tspan x="0" y="0">26</tspan></text>
+    <g class="cls-5">
+      <text class="cls-3" transform="translate(139.68 355.39)"><tspan x="0" y="0">26</tspan></text>
+    </g>
   </g>
   <g class="cls-5">
-    <text class="cls-3" transform="translate(244.12 483.39)"><tspan x="0" y="0">10</tspan></text>
+    <g class="cls-5">
+      <text class="cls-3" transform="translate(244.12 483.39)"><tspan x="0" y="0">10</tspan></text>
+    </g>
   </g>
   <g class="cls-5">
-    <text class="cls-3" transform="translate(283.9 291.39)"><tspan x="0" y="0">34</tspan></text>
+    <g class="cls-5">
+      <text class="cls-3" transform="translate(283.9 291.39)"><tspan x="0" y="0">34</tspan></text>
+    </g>
   </g>
   <g class="cls-5">
-    <text class="cls-4" transform="translate(388.34 475.39)"><tspan x="0" y="0">1</tspan></text>
-    <text class="cls-3" transform="translate(394.12 475.39)"><tspan x="0" y="0">1</tspan></text>
+    <g class="cls-5">
+      <text class="cls-4" transform="translate(388.34 475.39)"><tspan x="0" y="0">1</tspan></text>
+    </g>
+    <g class="cls-5">
+      <text class="cls-3" transform="translate(394.12 475.39)"><tspan x="0" y="0">1</tspan></text>
+    </g>
   </g>
   <g class="cls-5">
-    <text class="cls-3" transform="translate(428.11 91.39)"><tspan x="0" y="0">59</tspan></text>
+    <g class="cls-5">
+      <text class="cls-3" transform="translate(428.11 91.39)"><tspan x="0" y="0">59</tspan></text>
+    </g>
   </g>
   <g class="cls-5">
-    <text class="cls-3" transform="translate(532.56 403.39)"><tspan x="0" y="0">20</tspan></text>
+    <g class="cls-5">
+      <text class="cls-3" transform="translate(532.56 403.39)"><tspan x="0" y="0">20</tspan></text>
+    </g>
   </g>
   <g class="cls-5">
-    <text class="cls-3" transform="translate(572.33 187.39)"><tspan x="0" y="0">47</tspan></text>
+    <g class="cls-5">
+      <text class="cls-3" transform="translate(572.33 187.39)"><tspan x="0" y="0">47</tspan></text>
+    </g>
   </g>
   <g class="cls-5">
-    <text class="cls-3" transform="translate(676.77 123.58)"><tspan x="0" y="0">55</tspan></text>
+    <g class="cls-5">
+      <text class="cls-3" transform="translate(676.77 123.58)"><tspan x="0" y="0">55</tspan></text>
+    </g>
   </g>
   <g class="cls-5">
-    <text class="cls-3" transform="translate(716.73 219.39)"><tspan x="0" y="0">43</tspan></text>
+    <g class="cls-5">
+      <text class="cls-3" transform="translate(716.73 219.39)"><tspan x="0" y="0">43</tspan></text>
+    </g>
   </g>
   <g class="cls-5">
-    <text class="cls-3" transform="translate(821.18 251.39)"><tspan x="0" y="0">39</tspan></text>
+    <g class="cls-5">
+      <text class="cls-3" transform="translate(821.18 251.39)"><tspan x="0" y="0">39</tspan></text>
+    </g>
   </g>
   <g class="cls-5">
-    <text class="cls-3" transform="translate(860.95 395.39)"><tspan x="0" y="0">21</tspan></text>
+    <g class="cls-5">
+      <text class="cls-3" transform="translate(860.95 395.39)"><tspan x="0" y="0">21</tspan></text>
+    </g>
   </g>
   <g class="cls-5">
-    <text class="cls-3" transform="translate(965.39 11.39)"><tspan x="0" y="0">69</tspan></text>
+    <g class="cls-5">
+      <text class="cls-3" transform="translate(965.39 11.39)"><tspan x="0" y="0">69</tspan></text>
+    </g>
   </g>
   <g class="cls-5">
-    <text class="cls-3" transform="translate(1005.17 155.39)"><tspan x="0" y="0">51</tspan></text>
+    <g class="cls-5">
+      <text class="cls-3" transform="translate(1005.17 155.39)"><tspan x="0" y="0">51</tspan></text>
+    </g>
   </g>
 </svg>
